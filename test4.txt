@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sfd
 sdfsdfsd
 f
@@ -5,3 +6,6 @@ sdf
 dsf
 sdf
 s
+=======
+registration system added
+>>>>>>> loginsystem
